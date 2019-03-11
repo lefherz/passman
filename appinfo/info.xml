@@ -43,7 +43,7 @@ For an demo of this app visit [https://demo.passman.cc](https://demo.passman.cc)
         <database min-version="5.5">mysql</database>
         <lib>openssl</lib>
         <nextcloud min-version="14" max-version="15"/>
-        <owncloud min-version="14" max-version="15"/>
+        <owncloud min-version="10.0" max-version="10.1" />
     </dependencies>
 
     <background-jobs>
